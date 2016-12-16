@@ -1,3 +1,66 @@
+body,
 #container {
-    background-color: #000;
+    background-color: #111 !important;
+}
+
+.navigation {
+    color: #FCFCFC !important;
+}
+
+.section-nav a.selected {
+    color: #FCFCFC !important;
+}
+
+.section-nav a {
+    color: #AAA !important;
+}
+
+.badge-sticky-nav {
+    border-bottom: 2px solid #555;
+}
+
+section#list-view-2 h2 a {
+    color: #FCFCFC !important;
+}
+
+section#list-view-2 article {
+    border-top: 1px solid #333 !important;
+}
+
+section#list-view-2 article:first-child {
+    border: none !important;
+    padding: 0 !important;
+}
+
+.post-afterbar-a.in-post-top {
+    background-color: #111 !important;
+}
+
+.CS3 {
+    background-color: inherit !important;
+    color: #FCFCFC;
+}
+
+.CS3 .comment-entry .payload .username {
+    color: #FCFCFC !important;
+}
+
+.CS3 .tab-bar h3 {
+    color: #FCFCFC;
+}
+
+.CS3 .tab-bar ul.tab a {
+
+}
+
+.CS3 .tab-bar ul.tab li.active a {
+    color: #FCFCFC !important;
+}
+
+.CS3 .comment-box .action {
+    border: none !important;
+}
+
+.horizontal-vote a.up span {
+    background-color: #111 !important;
 }
