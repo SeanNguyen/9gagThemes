@@ -1,0 +1,25 @@
+{
+  "manifest_version": 2,
+
+  "name": "9GAG Themes",
+  "description": "This extension give you your favorite 9gag theme",
+  "version": "0.1",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "default_popup": "popup.html",
+    "default_title": "ME ME ME"
+  },
+
+  "content_scripts": [
+    {
+      "matches": [
+        "<all_urls>"
+      ],
+      "css": ["themes/dark/theme.css"]
+    }
+  ],
+
+  "permissions": [
+  ]
+}

@@ -1,2 +1,2 @@
 # 9gagThemes
-Themes for 9GAG
+This extension give you your favorite 9gag theme
