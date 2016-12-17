@@ -6,8 +6,8 @@
   "version": "0.1",
 
   "browser_action": {
-    "default_icon": "app/assets/icon.png",
-    "default_popup": "app/index.html",
+    "default_icon": "assets/icon.png",
+    "default_popup": "index.html",
     "default_title": "9GAG Theme"
   },
 
@@ -16,7 +16,7 @@
       "matches": [
         "*://9gag.com/*"
       ],
-      "css": ["app/themes/dark/theme.css"]
+      "css": ["themes/dark/theme.css"]
     }
   ],
 
