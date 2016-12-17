@@ -1,14 +1,14 @@
 {
   "manifest_version": 2,
 
-  "name": "9GAG Themes",
+  "name": "9gag Themes",
   "description": "This extension give you your favorite 9gag theme",
   "version": "0.1",
 
   "browser_action": {
     "default_icon": "assets/icon.png",
     "default_popup": "index.html",
-    "default_title": "9GAG Theme"
+    "default_title": "9gag Theme"
   },
 
   "content_scripts": [
